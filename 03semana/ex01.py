@@ -1,0 +1,7 @@
+idade = int(input("Informe sua idade: "))
+print("O valor da variável idade é:",idade)
+idade = int(input("Informe a idade do seu pai: "))
+print("O valor de idade, após a atualização é:",idade)
+idade = int(input("Informe a idade da sua mãe: "))
+print("O valor de idade, após a atualização é:",idade)
+print("Fim do Programa")
